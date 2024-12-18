@@ -5,3 +5,5 @@
  i dont have a certain dni list, but its the basic as homophonic/transphobic and if u are problematic in general
 
 ★ byi: i make kys/kms and some sexual jokes, please do tell me if those make u uncomfortable
+
+Always happy to make new friends, dont be shy to try and int with me
