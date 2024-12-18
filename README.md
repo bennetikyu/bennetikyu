@@ -6,4 +6,4 @@
 
 ★ byi: i make kys/kms and some sexual jokes, please do tell me if those make u uncomfortable
 
-Always happy to make new friends, dont be shy to try and int with me
+always happy to make new friends, dont be shy to try and int with me
