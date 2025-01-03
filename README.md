@@ -8,7 +8,7 @@
     <img width="120" src="https://github.com/user-attachments/assets/cea86e50-dfa1-4498-844b-225493a2643f"
 </p>
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7b62c4f9-1454-4440-97e1-e064522e42b0" width="100"/> <img src="https://github.com/user-attachments/assets/95a81f55-9c91-4a69-b776-95299c06ece8" width="100"/>
+    <img src="https://github.com/user-attachments/assets/7b62c4f9-1454-4440-97e1-e064522e42b0" width="130"/> <img src="https://github.com/user-attachments/assets/95a81f55-9c91-4a69-b776-95299c06ece8" width="130"/>
 </p>
 <p align="center">
     <img width="20" src="https://github.com/user-attachments/assets/615f72e1-1995-44ef-a48d-ba0d6012f31e"> 𝗯𝗿𝗮𝘇𝗶𝗹𝗶𝗮𝗻‎   ‎  ‎ .‎  ‎  ‎   𝗳𝘁𝗺   ‎ ‎ . ‎‎  ‎ 𝗺𝗹𝘄
