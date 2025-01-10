@@ -8,7 +8,10 @@ Art by goziberra on twitter.
 <h5 align="center">
     <img width="20" src="https://github.com/user-attachments/assets/e0ae7bbf-8211-461a-b3d8-3c0551837d60"> Bryan or Wrio‎ ‎ .‎ ‎ pt-br/eng
 <p align="center"> Usually offtab, w2i and c+h always </p>
+&nbsp;
+<div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31adelqqztdm2qcu4e4zizema2jy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
