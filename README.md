@@ -1,24 +1,16 @@
-<p align="center">
-    <img width="210" src="https://github.com/user-attachments/assets/952d5fd1-b957-4f03-9390-516c569fe35f">
+<h5 align="center">
+Art by goziberra on twitter.
 </p>
-<p align="center">
-    <img width="295" src="https://github.com/user-attachments/assets/0a6aa371-893c-498c-9dae-43b1f3180c65">
+<h4 align="center">
+    <img src="https://github.com/user-attachments/assets/d70b9ca7-2a35-4100-9ce8-86f56eba722b"width="205" height="110">
 </p>
-<p align="center">
-    <img width="150" src="https://github.com/user-attachments/assets/cea86e50-dfa1-4498-844b-225493a2643f"
-</p>
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/7b62c4f9-1454-4440-97e1-e064522e42b0" width="130"/> <img src="https://github.com/user-attachments/assets/95a81f55-9c91-4a69-b776-95299c06ece8" width="130"/>
-</p>
-<p align="center">
-    <img width="20" src="https://github.com/user-attachments/assets/615f72e1-1995-44ef-a48d-ba0d6012f31e"> 𝗯𝗿𝗮𝘇𝗶𝗹𝗶𝗮𝗻‎   ‎  ‎ .‎  ‎  ‎   𝗳𝘁𝗺   ‎ ‎ . ‎‎  ‎ 𝗺𝗹𝘄
-</p>
-<p align="center">
-    <img width="25" src="https://github.com/user-attachments/assets/afca2e35-a66b-46ea-8dee-e59654eb6f5c"> c+h 𝗳𝗿e͟e͟𝗹𝘆, i dont mind 
-</p>
-<p align="center">
-    <img width="25" src="https://github.com/user-attachments/assets/2c2d118e-9fe4-4276-bbe0-c7c0cdf3b62b"> be mah friend, if u wanna talk to me i highly prefer whispers since im mostly afk
-</p>
+<a href=https://www.tiktok.com/@bryanruindadepura?_t=ZM-8srLRMPGmmL&_r=1> Tiktok </a>    
+<h5 align="center">
+    <img width="20" src="https://github.com/user-attachments/assets/e0ae7bbf-8211-461a-b3d8-3c0551837d60"> Bryan or Wrio‎ ‎ .‎ ‎ pt-br/eng
+<p align="center"> Usually offtab, w2i and c+h always </p>
+
+
+
 
 
 
