@@ -1,4 +1,4 @@
-　<p align="center">![](https://komarev.com/ghpvc/?username=bennetikyu&label=★&color=c40404)</p>
+　<p align="center">![](https://komarev.com/ghpvc/?username=bennetikyu&label=★&color=c40404&abbreviated=true)</p>
 <h4 align="center">
     <img src="https://github.com/user-attachments/assets/b4e639ec-e837-446a-85b8-6d4c30e35b48"width="260" height="130">
 </p>
