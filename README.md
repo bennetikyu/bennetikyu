@@ -1,3 +1,7 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/9a53db7e-084d-4e0b-add3-d8f11df37211" width="300" height="200">
-</p>
+&nbsp;
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/fbadbb80-ee24-4005-b4b8-7c6d167be562" width="346" height="207">
+ 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31adelqqztdm2qcu4e4zizema2jy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=c90d33&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div>
