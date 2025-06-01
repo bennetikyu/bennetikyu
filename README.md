@@ -9,6 +9,8 @@ DNI
 
 Neopronouns
 
+System (multiple people or whatever that is)
+
 Sensitive people
 
 If u need tonetags for shit
